@@ -10,3 +10,5 @@ Allocation - a model for assessing the probability of receiving payments from a 
 - Features: ***162***
 - Minority class percentage (bad-rate): ***37,19%***
 
+## Python-notebooks:
+- Feature selection [Full CFSS](https://github.com/aasmirnova24/MASTER-S-THESIS/blob/main/Allocation/2022_Dip_Allocation_all%20select.ipynb)
