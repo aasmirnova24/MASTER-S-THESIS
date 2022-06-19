@@ -12,3 +12,4 @@ Allocation - a model for assessing the probability of receiving payments from a 
 
 ## Python-notebooks:
 - Feature selection [Full CFSS](https://github.com/aasmirnova24/MASTER-S-THESIS/blob/main/Allocation/2022_Dip_Allocation_all%20select.ipynb)
+- Experiments [Experiments 1 -2](https://github.com/aasmirnova24/MASTER-S-THESIS/blob/main/Allocation/2022_Dip_Allocation_experiment%201-2.ipynb)
