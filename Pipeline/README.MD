@@ -1,4 +1,28 @@
 # CFSS schema implementation for Python
 
-* ddd
-* ddd
+- secondary functions [utils](https://github.com/aasmirnova24/MASTER-S-THESIS/blob/main/Pipeline/Pipeline_utils/pipeline_utils.py)
+  - append_for_deletion, 
+  - remove_from_deletion, 
+  - funnel_func, 
+  - time_ranges_plot,
+  - by_month, 
+  - count_data, 
+  - drop_unnamed, 
+  - get_pretty_dates
+- main functions [ML_pipeline](https://github.com/aasmirnova24/MASTER-S-THESIS/blob/main/Pipeline/ML_pipeline/ml_pipeline.py)
+  - stratified_split
+  - attributes_list_new
+  - get_stats
+  - get_stats_by_month
+  - get_stats_on_target
+  - get_stats_on_target_by_month
+  - stable_unstable
+  - stable_unstable_by_month_divide
+  - statistics_with_target
+  - make_standard
+  - receive_correlations
+  - find_doubles_corr
+  - find_meta_params
+  - two_forests
+  - calculate_vif
+  - lr_test_all_features
